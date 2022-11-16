@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://github.com/MitchStreet/MitchStreet/blob/main/Mitchell%20Jay%20Street%20Title.png?raw=true" align="center" height="" width="800" />
 </div>  
+
+<br/>
   
 
 ### <div align="center">My name is Mitchell Jay Street, currently I am a student studying programming.</div>  
