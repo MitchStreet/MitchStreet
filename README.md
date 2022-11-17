@@ -5,7 +5,7 @@
 <br/>
   
 
-### <div align="center">My name is Mitchell Jay Street, currently I am a student studying programming.</div>  
+### <div align="center">My name is Mitchell Jay Street, currently I'mm  studying programming.</div>  
   
 
 ## 💫 About Me:
